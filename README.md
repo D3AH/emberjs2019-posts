@@ -54,6 +54,7 @@ A list of EmberJS2019 posts, feel free to add others!!!
 1. [#EmberJS2019, Part 2](https://www.chriskrycho.com/2019/emberjs2019-part-2.html)
 1. [My thoughts on the Ember.js roadmap for 2019 #EmberJS2019](https://gist.github.com/neojp/d7b2cdc38a04776cf3e41a6e698fb07e)
 1. [Wishes for the Ember roadmap 2019](https://medium.com/@thomas.leperou/wishes-for-the-ember-roadmap-2019-67ec1555bf8e)
+1. [Ember in the middle of 2019 — The good, the bad, the ugly & (hopefully?) the future of Ember web development](https://medium.com/@vlascik/ember-in-the-middle-of-2019-the-good-the-bad-the-ugly-hopefully-d641cc73d6d1)
 
 ## Forum Threads
 1.
